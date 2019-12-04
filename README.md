@@ -7,4 +7,4 @@
  - Thêm feature `isRemodel` thể hiện nhà đã được tu sửa
  - BlThêm 4 mô hình `LGBMRegressor`, `XGBRegressor` , `GradientBoostingRegressor` và `Support Vector Regression`
 ### Kết quả hiện tại
-![N|Solid](https://scontent.fhan2-4.fna.fbcdn.net/v/t1.15752-9/78491117_1210931639296645_4294536699758772224_n.png?_nc_cat=103&_nc_ohc=qwg7_kLBZt8AQmoKef3vN92p-7f5Kb7Wuu3kYnxLVBaSopnjVXBxR9EnQ&_nc_ht=scontent.fhan2-4.fna&oh=051fcb0be81a7aaf12d380a19bbce423&oe=5E43BEAB)
+![N|Solid](https://scontent.fhan2-3.fna.fbcdn.net/v/t1.15752-9/78925621_553882142074397_8597360925462233088_n.png?_nc_cat=101&_nc_ohc=cmwOwFS5rlsAQkB16KEhLRI5p_PEGkgu06Tsmk8IHYGFI1QMOtF6aDsQA&_nc_ht=scontent.fhan2-3.fna&oh=a31c382aed35336a7f9bcb553f80dccd&oe=5E4543D0)
