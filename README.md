@@ -5,6 +5,6 @@
  - Xử lý outlier `GarageYrBlt` trong file test ( outlier `GarageYrBlt` = 2209 )
  - Thêm feature `hasVeneer` thể hiện có trang trí tường
  - Thêm feature `isRemodel` thể hiện nhà đã được tu sửa
- - Thêm 3 mô hình `LGBMRegressor`, `XGBRegressor` và `Support Vector Regression`
+ - BlThêm 4 mô hình `LGBMRegressor`, `XGBRegressor` , `GradientBoostingRegressor` và `Support Vector Regression`
 ### Kết quả hiện tại
-![N|Solid](https://scontent.fhan2-2.fna.fbcdn.net/v/t1.15752-9/78276701_477320919815760_8942903731758825472_n.png?_nc_cat=111&_nc_ohc=bAyu4JEBdqYAQkaXD4sb_ezLiIZKoLyfWzqBLAWGXh8eH6qiKqbFGA7lA&_nc_ht=scontent.fhan2-2.fna&oh=8170ba8a5d865da7b5121e3342e9370d&oe=5E3E4B0F)
+![N|Solid](https://scontent.fhan2-4.fna.fbcdn.net/v/t1.15752-9/78491117_1210931639296645_4294536699758772224_n.png?_nc_cat=103&_nc_ohc=qwg7_kLBZt8AQmoKef3vN92p-7f5Kb7Wuu3kYnxLVBaSopnjVXBxR9EnQ&_nc_ht=scontent.fhan2-4.fna&oh=051fcb0be81a7aaf12d380a19bbce423&oe=5E43BEAB)
