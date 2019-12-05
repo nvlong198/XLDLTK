@@ -1,5 +1,5 @@
 # XLDLTK
-## Kết quả được Cải tiến từ mô hình [Kaggle](https://www.kaggle.com/masumrumi/a-detailed-regression-guide-with-house-pricing)
+## Kết quả được Cải tiến từ kernel [Kaggle](https://www.kaggle.com/masumrumi/a-detailed-regression-guide-with-house-pricing)
 
 ### Tiền xử lý thêm so với kernel ban đầu :
  - Xử lý outlier `GarageYrBlt` trong file test ( outlier `GarageYrBlt` = 2207 th )
