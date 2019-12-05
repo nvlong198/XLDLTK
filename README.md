@@ -2,7 +2,7 @@
 ## Kết quả được Cải tiến từ kernel [Kaggle](https://www.kaggle.com/masumrumi/a-detailed-regression-guide-with-house-pricing)
 
 ### Tiền xử lý thêm so với kernel ban đầu :
- - Xử lý outlier `GarageYrBlt` trong file test ( outlier `GarageYrBlt` = 2207 th )
+ - Xử lý outlier `GarageYrBlt` trong file test ( outlier `GarageYrBlt` = 2207 thay bằng 2007 )
  - Thêm feature `hasVeneer` thể hiện có trang trí tường
  - Thêm feature `isRemodel` thể hiện nhà đã được tu sửa
  - Thêm 4 mô hình `LGBMRegressor`, `XGBRegressor` , `GradientBoostingRegressor` và `Support Vector Regression`
