@@ -1,10 +1,10 @@
 # XLDLTK
-## Kết quả được Cải tiến từ mô hình [Kaggle](https://www.kaggle.com/masumrumi/a-detailed-regression-guide-with-house-pricing)
+## Kết quả được Cải tiến từ kernel [Kaggle](https://www.kaggle.com/alfredmaboa/advanced-regression-techniques-regularization)
 
 ### Tiền xử lý thêm so với kernel ban đầu :
- - Xử lý outlier `GarageYrBlt` trong file test ( outlier `GarageYrBlt` = 2209 )
+ - Xử lý outlier `GarageYrBlt` trong file test ( outlier `GarageYrBlt` = 2207 thay bằng 2007 )
  - Thêm feature `hasVeneer` thể hiện có trang trí tường
  - Thêm feature `isRemodel` thể hiện nhà đã được tu sửa
- - BlThêm 4 mô hình `LGBMRegressor`, `XGBRegressor` , `GradientBoostingRegressor` và `Support Vector Regression`
+ - Thêm 5 mô hình `LGBMRegressor`, `XGBRegressor` , `GradientBoostingRegressor`,`Support Vector Regression` và `StackingCVRegressor`
 ### Kết quả hiện tại
-![N|Solid](https://scontent.fhan2-3.fna.fbcdn.net/v/t1.15752-9/78925621_553882142074397_8597360925462233088_n.png?_nc_cat=101&_nc_ohc=cmwOwFS5rlsAQkB16KEhLRI5p_PEGkgu06Tsmk8IHYGFI1QMOtF6aDsQA&_nc_ht=scontent.fhan2-3.fna&oh=a31c382aed35336a7f9bcb553f80dccd&oe=5E4543D0)
+![N|Solid](https://scontent.fhan2-3.fna.fbcdn.net/v/t1.15752-9/78827370_2383301748448162_719334578866618368_n.png?_nc_cat=107&_nc_ohc=2g_kKZ-UHK4AQngn7MEdmkWQLpAwioWcRY70wdQa2eBYN6rVpFNZHwvXw&_nc_ht=scontent.fhan2-3.fna&oh=a8f53bc7a7233af52a3de1fde1f3ba70&oe=5E6C0D59)
